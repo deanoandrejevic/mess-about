@@ -1,0 +1,39 @@
+body {
+    background-color: #2F4858;
+}
+
+/* Alert */
+
+.alert {
+    margin-bottom: 0px;
+}
+
+.navcolor--text {
+    color: white;
+}
+
+/* Navbar */
+
+.navbar {
+    position: relative;
+}
+
+.navcolor--bg {
+    background-color: rgba(199, 148, 151, 0.8)!important
+}
+
+.holloway-header {
+    font-family: 'Dancing Script', cursive;
+    font-size: x-large;
+}
+ 
+.holloway-tabs {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+/* Carousel */
+
+.carousel {
+    position: absolute;
+}
